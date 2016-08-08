@@ -1,0 +1,16 @@
+gigi:
+  owner_name: Luigi Grazioli
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Gigi's home
+  summary: Charming room in San Siro
+  city: Milano, Italy
+  wifi: true
+knoxie:
+  owner_name: Cla Knox
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Knoxie's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
