@@ -14,3 +14,19 @@ knoxie:
   summary: Nice flat in Piccadilly
   city: London, UK
   wifi: false
+max:
+  owner_name: Max Phillips
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Max's home
+  summary: Nice flat in Brussels
+  city: Brussels, Belgium
+  wifi: false
+jordy:
+  owner_name: Jordy the Dutchie
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Jordy's home
+  summary: Sweet place in Amsterdam
+  city: Amsterdam, NL
+  wifi: false
