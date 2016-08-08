@@ -1,22 +1,22 @@
 gigi:
   owner_name: Luigi Grazioli
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+  picture: card-milano.jpg
+  owner_picture: photo_of_me.jpg
   name: Gigi's home
   summary: Charming room in San Siro
   city: Milano, Italy
   wifi: true
 knoxie:
   owner_name: Cla Knox
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+  picture: card-london.jpeg
+  owner_picture: ck.jpg
   name: Knoxie's home
   summary: Nice flat in Piccadilly
   city: London, UK
   wifi: false
 max:
   owner_name: Max Phillips
-  picture: http://placehold.it/150x150
+  picture: card-brussels.jpeg
   owner_picture: http://placehold.it/150x150
   name: Max's home
   summary: Nice flat in Brussels
@@ -24,7 +24,7 @@ max:
   wifi: false
 jordy:
   owner_name: Jordy the Dutchie
-  picture: http://placehold.it/150x150
+  picture: amsterdam.jpg
   owner_picture: http://placehold.it/150x150
   name: Jordy's home
   summary: Sweet place in Amsterdam
